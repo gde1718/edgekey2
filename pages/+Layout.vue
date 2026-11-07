@@ -36,7 +36,7 @@
     <footer class="border-t border-base-300 bg-base-100 py-6 text-center text-sm text-base-content/60 mt-auto">
       <div class="flex flex-col items-center gap-3 md:flex-row md:justify-between mx-auto max-w-6xl px-4 text-sm text-gray-500 tracking-wide">
         <span class="">
-          {{ footerText ? footerText : "&copy; 2026 designed" }} & developed by edgeKey 
+          {{ footerText ? footerText : "&copy; 2026 designed" }}
         </span>
         <!-- 单条直接展示，多条用 dropdown -->
         <template v-if="supportContactItems.length === 1">
