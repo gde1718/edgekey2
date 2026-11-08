@@ -86,7 +86,7 @@
         >
           <img :src="siteLogo" height="50" width="50" alt="logo" />
           <div>
-            <div class="text-2xl font-black text-primary tracking-tight">EK Admin</div>
+            <div class="text-2xl font-black text-primary tracking-tight">后台管理</div>
             <p class="text-xs font-medium text-base-content/50 mt-1 uppercase tracking-wider">
               全球部署，一触即达。
             </p>
